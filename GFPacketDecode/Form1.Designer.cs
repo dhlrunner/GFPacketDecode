@@ -112,7 +112,6 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(97, 20);
             this.comboBox1.TabIndex = 6;
-            this.comboBox1.Visible = false;
             // 
             // label2
             // 
@@ -122,7 +121,6 @@
             this.label2.Size = new System.Drawing.Size(37, 12);
             this.label2.TabIndex = 7;
             this.label2.Text = "Mode";
-            this.label2.Visible = false;
             // 
             // linkLabel1
             // 
@@ -161,7 +159,6 @@
             this.button3.TabIndex = 12;
             this.button3.Text = "<->";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Visible = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label5
