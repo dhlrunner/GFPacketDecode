@@ -1,0 +1,12 @@
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.csprojAssemblyReference.cache
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.Form1.resources
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.Properties.Resources.resources
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.csproj.GenerateResource.cache
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.exe
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.pdb
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\bin\Debug\GFPacketDecode.exe.config
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\bin\Debug\GFPacketDecode.exe
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\bin\Debug\GFPacketDecode.pdb
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.csproj.Fody.CopyLocal.cache
+H:\Visual Studio 2017\Projects\GFPacketDecode\GFPacketDecode\obj\Debug\GFPacketDecode.Form2.resources
