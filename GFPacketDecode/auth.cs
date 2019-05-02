@@ -1,5 +1,4 @@
 ﻿using AC;
-using GFPacketDecode;
 using ICSharpCode.SharpZipLib.GZip;
 using LitJson;
 using System;
@@ -35,7 +34,7 @@ class packetdecode
                 }
             }
         }
-        catch (Exception e)
+        catch //(Exception e)
         {
             //Console.WriteLine(e.ToString());
             //throw;
